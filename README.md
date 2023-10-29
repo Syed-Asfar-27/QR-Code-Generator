@@ -17,7 +17,7 @@ You can install these libraries using the following command:
 
 ## Usage
 
-1. Clone this repository or download the `qrcode_generator.ipynb`  script to your local machine.
+1. Clone this repository or download the `QR_Code_Generator.ipynb`  script to your local machine.
 
 2. Run the script using a Python environment. It will prompt you to enter a URL for which you want to generate a QR code.
 
@@ -26,14 +26,6 @@ You can install these libraries using the following command:
 4. The QR code will be generated and saved in the current working directory with the specified filename.
 
 5. You can share the saved QR code with others by sending the image file.
-
-## Example
-
-Here's an example of how to run the script:
-
-```bash
-python qrcode_generator.ipynb
-```
 
 The script will guide you through the URL and filename input process.
 
@@ -44,3 +36,5 @@ The script will guide you through the URL and filename input process.
 - The QR code image is created and saved using the `PIL` (Pillow) library.
 
 Feel free to use, modify, and share this script as needed. If you encounter any issues or have suggestions for improvements, please open an issue or create a pull request.
+
+![QR Code Generator](https://github.com/Syed-Asfar-27/QR-Code-Generator/assets/85727853/32236d79-06e1-4478-b5e9-de4dfb037082)
